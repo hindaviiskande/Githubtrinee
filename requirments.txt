@@ -2,3 +2,6 @@ this is a chat window
 emoji
 colour 
 vibrant
+
+dark mode
+video option
